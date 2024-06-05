@@ -25,7 +25,7 @@ public class UserService {
 		repo.save(existingUser);		
 	}
 	
-	public List<User> findConnectedUser() {
+	public List<User> findConnectedUsers() {
 		return repo.findByStatus(Status.ONLINE);		
 	}
 
