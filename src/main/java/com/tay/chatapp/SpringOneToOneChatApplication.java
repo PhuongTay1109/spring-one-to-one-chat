@@ -1,4 +1,4 @@
-package com.tay.websocket;
+package com.tay.chatapp;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
