@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: spring-one-to-one-chat
+  data:
+    mongodb:
+      uri: mongodb+srv://tayphuong1109:PhuongTay110903%40@javaphuongtay.qkqk0o3.mongodb.net/?retryWrites=true&w=majority&appName=JavaPhuongTay
+      database: chat_app
+
+server:
+  port: 8088
